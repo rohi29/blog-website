@@ -1,38 +1,63 @@
-.navbar{
-    background-color: darkgrey;
-    border-radius: 13px;
-    margin-top: 5px;
+body {
 }
-.navbar ul{
-    overflow: auto;
-    
+.navbar {
+  background-color: #180617;
+  border-radius: 3px;
+  margin-top: 5px;
 }
-.navbar li{
-    float: left;
-    list-style: none;
-    margin: 0px 20px;
+.navbar ul {
+  overflow: auto;
 }
-.navbar li a:hover{
-    color: red;
-    font-size: 30px;
-    
+.navbar li {
+  float: left;
+  list-style: none;
+  margin: 0px 20px;
 }
-.search{
-    float: right;
-    color: white;
-    /* padding: 0px 39px; */
-    margin-left: 300px;
+.navbar li a:hover {
+  color: red;
+  font-size: 30px;
+}
+.search {
+  float: right;
+  color: white;
+  /* padding: 0px 39px; */
+  margin-left: 300px;
 }
 
-.container{
-    max-width: 1300px;
-    margin: auto;
+.bname {
+  font-size: 20px;
+  margin-left: 21px;
+  font-family: emoji;
+  font-style: inherit;
+  color: crimson;
 }
-.bname{
-    font-size: 20px;
-    margin-left: 21px;
-    font-family: emoji;
-    font-style: inherit;
-    color: crimson;
+.image {
+  height: 80%;
+  width: 100%;
 }
+.centered {
+  color: antiquewhite;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.h1 {
+  margin-left: 30px;
+  font-size: 69px;
+  /* font-size: revert; */
+  font-family: revert;
+  font-style: italic;
+}
+.h3 {
+  margin-left: 40px;
+  font-size: 25px;
+  /* font-size: revert; */
+  font-family: revert;
+  font-style: italic;
+}
+.button{
+    
+    
+
 }
