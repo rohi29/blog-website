@@ -91,3 +91,47 @@ margin-top: 100px;
     width: 250px;
     margin: 170px;;
 }
+
+.rowb1{
+margin-top: 20px;
+}
+.colb1{
+    margin: 40px;
+    border: solid black;
+}
+.ib1{
+    width: 340px;
+    height: 250px;
+    
+}
+
+.pb1{
+    margin-top: 25px;
+    padding: 25px;
+}
+.ab1{
+    margin: 90px;
+}
+.h3b1{
+    margin-top: 25px;
+    margin-left: 20px;
+}
+
+.rowb2{
+    margin:60px;
+}
+
+.colblog1{
+    margin-right: 150px;
+    margin-top: 5px;
+    margin-left: 150px;
+    /* margin: 100px; */
+    border: solid wheat;
+    padding: 30px;
+
+}
+.blog1img{
+    
+    padding-left: 111px;
+    padding-top: 35px;
+}
