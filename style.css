@@ -1,4 +1,5 @@
 body {
+    
 }
 .navbar {
   background-color: #180617;
@@ -56,8 +57,37 @@ body {
   font-family: revert;
   font-style: italic;
 }
-.button{
-    
-    
 
+.pw {
+    background-color: darkslategray;
+    font-style: oblique;
+    font-size: 30px;
+    font-stretch: condensed;
+    text-align: center;
+    color: white;
+    padding: 51px;
+}
+
+.pw1{
+    padding-bottom: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 29px;
+}
+
+.hw1{
+margin-left: 200px;
+margin-top: 100px;
+}
+.image1{
+    margin-left: -24px;
+    height: 46%;
+    width: 103%;
+
+}
+
+.image2{
+    height: 165px;
+    width: 250px;
+    margin: 170px;;
 }
