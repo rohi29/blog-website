@@ -135,3 +135,64 @@ margin-top: 20px;
     padding-left: 111px;
     padding-top: 35px;
 }
+.rowcon{
+    margin-top: 100px;
+}
+.conth1{
+    font-size: 50px;
+    margin: 60px;
+    color: red;
+}
+.colcont{
+    border: solid;
+    border-color: antiquewhite;
+    /* margin: 0px; */
+    /* border-block-color: inherit; */
+    padding: 30px
+}
+.lablen{
+    margin-left: 100px;
+}
+input[type=text],  textarea {
+  width: 100%; /* Full width */
+  padding: 12px; /* Some padding */ 
+  border: 1px solid #ccc; /* Gray border */
+  border-radius: 4px; /* Rounded borders */
+  box-sizing: border-box; /* Make sure that padding and width stays in place */
+  margin-top: 6px; /* Add a top margin */
+  margin-bottom: 16px; /* Bottom margin */
+  resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+}
+
+input[type=submit] {
+    background-color: #04AA6D;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
+  .infocon{
+    padding-left: 215px;
+  }
+  .fontsize{
+
+  }
+  .imagework{
+    height: 460px;
+    width: 644px;
+    
+    padding: 16px;
+    
+  }
+  .rowwork{
+    background-color:antiquewhite;
+
+  }
+  .aindexb{
+      margin-left: 500px;
+      margin-top: 50px;
+  }
